@@ -1,0 +1,46 @@
+How to use Git reflections 1
+
+1) How did viewing a diff between two versions of a file help you spot the bug
+that was introduced?
+
+It lets you spot any changes made between versions, so if you changed anything
+on accident or incorrectly it will be shown.
+
+2) How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+So I don't have to go searching through the entire file to see what was changed,
+so if I end up not working on something for a while I still can tell what it was
+I was doing...
+
+3) What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+Docs does?
+
+Manual:     Pro: It won't flood you with things you don't need     Con: You
+might forget
+
+Automatically:     Pro: You cannot forget     Con: It will flood you with
+unneeded info
+
+4) Why do you think some version control systems, like Git, allow saving
+multiple files in one commit, while others, like Google Docs, treat each file
+separately?
+
+Because each is useful for different things.
+
+5) How can you use the commands git log and git diff to view the history of
+files
+
+...To view the history of files? I'm not sure I understand what is being asked.
+
+6) How might using version control make you more confident to make changes that
+could break something?
+
+Because you know that it is possible to fix whatever you broke.
+
+
+7) Now that you have your workspace set up, what do you want to try using Git
+for?
+
+I know Git is used for storing and sharing files, so I would like to try that
