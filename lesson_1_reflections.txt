@@ -43,4 +43,4 @@ Because you know that it is possible to fix whatever you broke.
 7) Now that you have your workspace set up, what do you want to try using Git
 for?
 
-I know Git is used for storing and sharing files, so I would like to try that
+I know Git is used for storing and sharing files, so I would like to try that.
