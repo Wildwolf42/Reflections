@@ -17,3 +17,7 @@ If you have multiple people changing things at the same time, it helps organise 
 20) How do the diagrams help you visualize the branch structure?
 
 Because the structure isn't linear, the tree-like diagram helps show you what leads to what.
+
+25) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The branches combine to have both of their effects on the files. We represent like that because if they merge, they combine like the two lines on the diagram do.
