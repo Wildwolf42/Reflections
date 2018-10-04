@@ -1,23 +1,41 @@
 4) What happens when you initialize a repository? Why do you need to do it?
 
-It creates a .git folder to hold the commits in. You need to do it in order to commit changes.
+It creates a .git folder to hold the commits in. You need to do it in order to
+commit changes.
 
-7) How is the staging area different from the working directory and the repository? What value do you think it offers?
+7) How is the staging area different from the working directory and the
+repository? What value do you think it offers?
 
-The staging area allows you to choose what files are changed in a commit and which aren't. This is useful if you only want one file to change.
+The staging area allows you to choose what files are changed in a commit and
+which aren't. This is useful if you only want one file to change.
 
-12) How can you use the staging area to make sure you have one commit per logical change?
+12) How can you use the staging area to make sure you have one commit per
+logical change?
 
 You can check to make sure you don't have changes all over the place.
 
-15) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+15) What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
 
-If you have multiple people changing things at the same time, it helps organise things. Branches help with not changing the code for other people while they are working.
+If you have multiple people changing things at the same time, it helps
+organize things. Branches help with not changing the code for other people
+while they are working.
 
 20) How do the diagrams help you visualize the branch structure?
 
-Because the structure isn't linear, the tree-like diagram helps show you what leads to what.
+Because the structure isn't linear, the tree-like diagram helps show you what
+leads to what.
 
-25) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+25) What is the result of merging two branches together? Why do we represent
+it in the diagram the way we do?
 
-The branches combine to have both of their effects on the files. We represent like that because if they merge, they combine like the two lines on the diagram do.
+The branches combine to have both of their effects on the files. We represent
+like that because if they merge, they combine like the two lines on the
+diagram do.
+
+32) What are the pros and cons of Git’s automatic merging vs. always doing
+merges manually?
+
+Automatically merging has you do less work, but might merge something you don't
+want merged. Manually is more annoying and also you can make mistakes, but you
+don't merge anything you don't want to.
