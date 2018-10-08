@@ -9,3 +9,11 @@ You might not want to stay up to date for some reason.
 14) Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks are copying from one GitHub repository to another new one, clones are copying files to your computer, and branches are so that changes you make don't ruin everything else
+
+22) What is the benefit of having a copy of the last known state of the remote stored locally?
+
+If you make a huge mistake and nothing works anymore, you can easily fix it.
+
+25) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would use a shared document and hope that nobody would mess up something someone else has done
